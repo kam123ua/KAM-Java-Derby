@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Mar 01 16:16:56 EET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0153-3289-f657-000002ff36b0 
+on database directory D:\workspace\KAM Java Derby\database\basa  with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/D:/workspace/KAM%20Java%20Derby/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_73-b02
+user.dir=D:\workspace\KAM Java Derby
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

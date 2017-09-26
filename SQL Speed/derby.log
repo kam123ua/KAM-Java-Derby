@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Feb 28 21:30:45 EET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0153-295c-900b-000003030120 
+on database directory D:\workspace\SQL Speed\database\derby  with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/D:/workspace/SQL%20Speed/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_73-b02
+user.dir=D:\workspace\SQL Speed
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
